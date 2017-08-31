@@ -1,6 +1,6 @@
-# Scalpel for Xamarin.Android
+# Scalpel
 
-Binding library of [JakeWharton/scalpel](https://github.com/JakeWharton/scalpel) v1.1.2
+Xamarin.Android Bindings for [JakeWharton/scalpel](https://github.com/JakeWharton/scalpel) v1.1.2
 
 	A surgical debugging tool to uncover the layers under your app.
 
